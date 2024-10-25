@@ -14,6 +14,15 @@
 # Convert the input to an integer
 #number = int(user_input)
 
-float=2.4
-int=float
-print(int)
+#float=2.4
+#int=int(float)
+#print(int)
+
+
+# age = int(input("Enter your age: "))
+
+# Calculate age in the next decade
+# age_in_next_decade = age + 10
+
+# Print the result
+# print("In 10 years, you will be:", age_in_next_decade)
